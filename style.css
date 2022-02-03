@@ -1,0 +1,55 @@
+body{ 
+    background-color: #D47677;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div { 
+    background-color:#F0F0F0;
+    align-items: center;
+    margin: 0px auto ;
+    width: 550px;
+}
+
+h1{
+    color: #7e7e7e;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.user-pass{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.text-input{
+    color:#AAAAAA;
+    margin: 10px;
+    width: 380px;
+    height: 35px;
+    border: none;
+    padding: 2px 5px;
+}
+
+button{
+    background-color:#9DD8D4;
+    color:#F0F0F0;
+    text-align: center;
+    border: none;
+    margin: 30px;
+    width: 110px;
+    height: 40px;
+}
+
+.container {
+    display:block;
+    position: relative;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 20px;
+    margin-left: 60px;
+    color:#AAAAAA;
+    border: none;
+}
+    
